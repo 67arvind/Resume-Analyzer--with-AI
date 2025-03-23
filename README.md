@@ -95,6 +95,7 @@ python -m streamlit run app.py
 
 4. Open your browser and navigate to http://localhost:8501
 
+---
 5. ### **Live Demo:** 
 ---
 [![live_app](https://img.shields.io/badge/live_app-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://resumeanalyzerwithai.streamlit.app/)
